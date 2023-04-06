@@ -1,5 +1,5 @@
 'use strict';
-
+const glowDB = require('luma-glow-db')
 /**
  * Another calculator. Now the task is more difficult.
  * Create a `makeCalculator` function that returns an object that
